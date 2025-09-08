@@ -7,8 +7,10 @@
 * 要点4：不同的模型温度（采样方式）对输出结果“多样性”的影响。采样越严格，模型的多样性就越差。
 * 要点5：相似的token，embedding后的距离也更接近（降维为可视化的图表）
 * 要点6：生成一个句子的过程中，如何观察某一层，词与词之间的注意力关系？（Attention Map）
+* 作业文档：https://blog.csdn.net/qq_41697157/article/details/151023680?spm=1001.2014.3001.5502
 
 # homework-4 (已更新)
 * 一、作业目标：使用只有2层transformer的GPT-2，生成完整宝可梦图像。
 * 二、实现FID Score：使用提供的Transformer模型（GPT-2）进行训练，FID Score: 96.3425
-# homework_lihongyi
+* 作业文档：https://blog.csdn.net/qq_41697157/article/details/151259643?spm=1001.2014.3001.5502
+
